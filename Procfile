@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar target/Shopping_cart-0.0.1-SNAPSHOT.jar
